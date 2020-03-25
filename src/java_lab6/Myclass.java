@@ -26,7 +26,7 @@ class Myclass implements A
     @Override
     public void meth2()
     {
-        System.out.println("programming");
+        System.out.println("programing");
     }
 
 
