@@ -12,7 +12,7 @@ package java_lab6;
 public class Outer {
     void display()
     {
-        System.out.println("Outer class.");
+        System.out.println("Outer class");
         Inner i=new Inner();
         i.display();
     }
@@ -20,7 +20,7 @@ public class Outer {
     {
         void display()
         {
-            System.out.println("Inner class.");
+            System.out.println("Inner class");
         }
     }
     public static void main(String a[])
