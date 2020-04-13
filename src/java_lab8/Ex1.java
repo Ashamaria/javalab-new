@@ -14,6 +14,7 @@ public class Ex1 {
     public static void main(String args[])
     {
         Ex E = new Ex();
+        System.out.println("hello");
         E.display();
     }
 }
