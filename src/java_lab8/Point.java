@@ -25,19 +25,19 @@ public class Point {
  public void setX(int x)
  {
      this.x=x;
-     System.out.println("value of x "+x);
+     System.out.println("value of x = "+x);
  }
  public void setY(int y)
  {
     this.y=y;
-    System.out.println("value of y "+y);
+    System.out.println("value of y  = "+y);
  }
    
  public void setXY(int x,int y)
  {
      this.x=x;
      this.y=y;
-     System.out.println("Addition of x and y "+(x+y));
+     System.out.println("Addition of x and y = "+(x+y));
  }
  public static void main(String args[])
  {
