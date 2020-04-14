@@ -14,7 +14,7 @@ public class Directory {
    
     public static void main (String args[]) throws IOException      
     {  
-        File f = new File ("c:/java/temp");
+        File f = new File ("c:/java/temp1");
         if (f.mkdir()) 
             System.out.println("created a directory"+f);
         else 

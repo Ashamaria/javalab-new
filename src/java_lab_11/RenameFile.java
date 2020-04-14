@@ -14,8 +14,8 @@ public class RenameFile {
  
   public static void main(String args[])
   {       
-        File f = new File("c:\\java","renamefile");  
-        File f1 = new File("c:\\java\\Asha_Maria_Saji"); 
+        File f = new File("c:\\java","abc.txt");  
+        File f1 = new File("c:\\java\\renamefile"); 
         if (f.exists())  
         {    
             System.out.println(f + " does exists.");
